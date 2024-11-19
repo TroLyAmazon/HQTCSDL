@@ -1,2 +1,0 @@
-# HQTCSDL
-File Dowloads
